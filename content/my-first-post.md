@@ -11,6 +11,8 @@ The main idea:
 
 Using Monero, a privacy-oriented cryptocurrency, to fund direct action, directly.
 
+Fuck the police didn't work. Defund the police was a strong movement, but police brutality still exists. Now, it's time to cripple the police.
+
 ## Here's some lists
 
 - let's list some stuff
