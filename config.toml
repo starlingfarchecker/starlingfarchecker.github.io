@@ -3,7 +3,7 @@
 # for easier development.
 
 # The URL the site will be built for
-base_url = "https://starlingfarchecker.github.io/"
+base_url = "https://cripplethepolice.pages.dev/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
