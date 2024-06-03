@@ -7,7 +7,9 @@ tags = ["other", "the game"]
 
 # Anarchist Praxis
 
+The main idea: 
 
+Using Monero, a privacy-oriented cryptocurrency, to fund direct action, directly.
 
 ## Here's some lists
 
