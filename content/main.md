@@ -18,7 +18,7 @@ tags = ["Anarchist", "Fuck the police", "Protest"]
 
 --- 
 
-# Fuck the Police: An Analysis
+# Fuck the Police
 
 "Fuck Tha Police" by the N.W.A is an important cultural step to recognize the
 violence of the system we live in. Their hit album made
@@ -234,5 +234,9 @@ experience, and listed a Monero address (please do **NOT** reuse monero
 addresses in this scenario. Create a new one for each instance of crippling the
 police.) 
 
-
 <img src="/img/cripple.png"/>
+
+Aside from this, we pledge to support pro-Palestinian protestors with gas masks
+and protection from police crowd-control. Anything we can do to even the
+playingfield and nullify the effect of police crowd control. Please contact us using the SimpleX
+chat to see what we can do for you.
