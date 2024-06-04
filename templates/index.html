@@ -84,7 +84,7 @@
                         <h4 class="title"> {{ page.title }} </h4>
                     </a>
                     <p>
-                        {{ page.content | safe | striptags | truncate }}
+                        {{ page.description }}
                     </p>
                     {{ m::tags(taxonomy=page.taxonomies['tags']) }}
                 </div>

@@ -2,6 +2,7 @@
 # This also lets you run `zola serve` just in the themes directory
 # for easier development.
 
+title = "Starling Farchecker"
 # The URL the site will be built for
 base_url = "https://cripplethepolice.pages.dev/"
 

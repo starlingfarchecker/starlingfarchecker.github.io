@@ -113,8 +113,18 @@ ol {
     text-align: start;
 }
 
+p {
+    margin-bottom: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-left: 30px
+
+}
 ul,
 ol {
+    margin-bottom: 30px;
     p {
         padding: 0 0 !important;
     }
