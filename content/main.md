@@ -173,7 +173,9 @@ This is the most important part. Communication, coordination, and trust is key.
 We need each other for the movement to be successful. Those that choose to take part
 in the movement can document and detail causing chaos and destruction of police
 property in popular social media, but they must do so without inadvertently
-exposing their true identity. I'll list here certain tools and tricks that can help
+exposing their true identity. Moreover, It is also important for people that are
+unable physically to participate to be able to fund crippling the police anonymously and feel
+certain that they are making a difference. I'll list here certain tools and tricks that can help
 maintain anonymity and provide plausible deniability.
 
 ### Anonymous communication and coordination using SimpleX chat 
@@ -207,8 +209,8 @@ scenario:
    obtains USD from there
    
 The next day, her funds get frozen and the police swarm her house. The problem
-with Bitcoin's transparent is that the authorities are able to trace the fact that the
-transaction **1MWux** --> **12wYYK** happened, and due to crypto KYC laws the exchange
+with Bitcoin's transparent blockchain the authorities are able to link the send address **1MWux**
+with the send address in the viral video, and due to crypto KYC laws the exchange
 will be able to tie Alice's real identity to **1MWux**.
 
 Using Monero, this transaction is obfuscated from the blockchain, meaning that
